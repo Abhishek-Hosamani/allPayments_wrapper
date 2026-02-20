@@ -1,0 +1,11 @@
+{
+  "name": "allpayments_wrapper",
+  "version": "1.0.0",
+  "description": "A wrapper SDK for all payment integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
